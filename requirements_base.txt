@@ -20,6 +20,7 @@ msgpack-python==0.4.8
 networkx==2.3
 numpy==1.16.4
 otree==2.2.3
+#otree[mturk]>=2.4.0
 otree-boto2-shim==0.3.2
 otree-core==0.0.0b1
 otree-save-the-change==1.1.3
